@@ -1,1 +1,1 @@
-clickhouse/clickhouse-server:24.12.4
+timberio/vector:latest
