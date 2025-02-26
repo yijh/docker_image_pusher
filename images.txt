@@ -1,1 +1,1 @@
-timberio/vector:latest-alpine
+minio/minio:latest
