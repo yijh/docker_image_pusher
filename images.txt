@@ -1,1 +1,1 @@
-confluentinc/cp-schema-registry:7.4.0
+datahub-mysql-setup:v0.15.0.1
