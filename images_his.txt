@@ -1,0 +1,13 @@
+acryldata/datahub-frontend-react:v0.15.0.1
+acryldata/datahub-actions:v0.1.10
+acryldata/datahub-gms:v0.15.0.1
+acryldata/datahub-upgrade:v0.15.0.1
+acryldata/datahub-elasticsearch-setup:v0.15.0.1
+acryldata/datahub-kafka-setup:v0.15.0.1
+elasticsearch:7.10.1
+confluentinc/cp-schema-registry:7.4.0
+confluentinc/cp-kafka:7.4.0
+confluentinc/cp-zookeeper:7.4.0
+openmetadata/server:1.6.4
+openmetadata/ingestion:1.6.4
+openmetadata/db:1.6.4
