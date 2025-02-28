@@ -8,3 +8,6 @@ elasticsearch:7.10.1
 confluentinc/cp-schema-registry:7.4.0
 confluentinc/cp-kafka:7.4.0
 confluentinc/cp-zookeeper:7.4.0
+openmetadata/server:1.6.4
+openmetadata/ingestion:1.6.4
+openmetadata/db:1.6.4
