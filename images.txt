@@ -1,1 +1,1 @@
-mysql:8.2
+confluentinc/cp-schema-registry:7.4.0
