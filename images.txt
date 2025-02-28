@@ -1,1 +1,1 @@
-datahub-mysql-setup:v0.15.0.1
+acryldata/datahub-mysql-setup:v0.15.0.1
