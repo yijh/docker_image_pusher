@@ -1,2 +1,1 @@
-openmetadata/server:1.6.5
-openmetadata/ingestion:1.6.5
+elasticsearch:8.11.4
