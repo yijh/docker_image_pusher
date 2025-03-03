@@ -1,1 +1,2 @@
-acryldata/datahub-mysql-setup:v0.15.0.1
+openmetadata/server:1.6.5
+openmetadata/ingestion:1.6.5
