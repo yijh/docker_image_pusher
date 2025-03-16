@@ -1,1 +1,1 @@
-flink:1.17.1-scala_2.12-java11
+python:3.8.17-slim-bullseye
