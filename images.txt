@@ -1,1 +1,1 @@
-python:3.6.15-slim-bullseye
+redis:7.4.2
