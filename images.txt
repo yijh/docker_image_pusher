@@ -1,1 +1,1 @@
-confluentinc/cp-schema-registry:7.6.5
+bitnami/schema-registry:7.9.0
