@@ -1,1 +1,1 @@
-confluentinc/cp-schema-registry
+confluentinc/cp-schema-registry:7.6.5
