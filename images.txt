@@ -1,1 +1,1 @@
-bitnami/schema-registry:7.9.0
+postgres:13
