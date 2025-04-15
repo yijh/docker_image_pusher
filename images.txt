@@ -1,1 +1,1 @@
-postgres:13
+trinodb/trino:474
