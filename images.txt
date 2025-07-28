@@ -1,1 +1,1 @@
-apache/hive:4.0.1
+zookeeper:3.9.3
