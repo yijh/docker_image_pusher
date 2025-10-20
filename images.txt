@@ -1,1 +1,1 @@
-gethue/hue:4.11
+gethue/hue:latest
