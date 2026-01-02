@@ -1,1 +1,1 @@
-rancher/rancher:head
+rancher/rancher:v2.13-head
