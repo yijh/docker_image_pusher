@@ -1,1 +1,1 @@
-gethue/hue:latest
+rancher/rancher:head
