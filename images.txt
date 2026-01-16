@@ -1,1 +1,1 @@
-rancher/rancher:v2.13-head
+bytebase/bytebase:latest
