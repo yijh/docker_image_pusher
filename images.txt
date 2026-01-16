@@ -1,1 +1,1 @@
-bytebase/bytebase:latest
+dbeaver/cloudbeaver:latest
