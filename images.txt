@@ -1,1 +1,1 @@
-dbeaver/cloudbeaver:latest
+opensearchproject/opensearch:2.19.4
