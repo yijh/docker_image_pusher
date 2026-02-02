@@ -1,1 +1,1 @@
-opensearchproject/opensearch:2.19.4
+openmetadata/ingestion:1.11.7
