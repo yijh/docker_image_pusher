@@ -1,1 +1,1 @@
-openmetadata/server:1.11.7
+bitnami/kafka:3.9.0
